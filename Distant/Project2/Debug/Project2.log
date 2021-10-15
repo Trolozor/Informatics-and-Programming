@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Trolozor\Desktop\Project C\Project2\Project2\Source.c(21,40): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Trolozor\Desktop\Project C\Project2\Project2\Source.c(28,20): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  Project2.vcxproj -> C:\Users\Trolozor\Desktop\Project C\Project2\Debug\Project2.exe
