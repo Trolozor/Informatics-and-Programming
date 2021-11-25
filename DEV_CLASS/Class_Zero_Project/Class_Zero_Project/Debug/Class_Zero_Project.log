@@ -1,0 +1,3 @@
+﻿  Class_Zero_Project.c
+C:\Users\test\Desktop\Project_C\Class_Zero_Project\Class_Zero_Project\Class_Zero_Project.c(50,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Class_Zero_Project.vcxproj -> C:\Users\test\Desktop\Project_C\Class_Zero_Project\Debug\Class_Zero_Project.exe
